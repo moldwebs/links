@@ -1,4 +1,4 @@
-#NOW
+# NOW
 
 https://habr.com/ru/news/831514/
 
