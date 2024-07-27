@@ -10,3 +10,4 @@ https://habr.com/ru/search/?q=%5Bai%5D&target_type=posts&order=date
 
 https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html
 
+https://learn.microsoft.com/en-us/training/paths/pytorch-fundamentals/
