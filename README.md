@@ -12,6 +12,8 @@ https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html
 
 https://learn.microsoft.com/en-us/training/paths/pytorch-fundamentals/
 
+http://blog.ezyang.com/2019/05/pytorch-internals/
+
 # EXTRA
 
 https://lightning.ai/studios?section=tutorials
